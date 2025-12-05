@@ -1,2 +1,1 @@
-This is a newline
-for commit purpose
+I am Firoz
