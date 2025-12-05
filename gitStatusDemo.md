@@ -1,1 +1,1 @@
-This is a newline
+This is a newline, OK
